@@ -165,7 +165,7 @@ button:hover {
 footer {
   margin-top: 3rem;
   bottom: 0;
-  position: relative;
+  position: absolute;
   width: 100%;
   padding: 1.1rem 0;
   color: white;
@@ -199,6 +199,10 @@ footer a:hover {
   
   .container-output {
     width: 100%;
+  }
+
+  footer {
+    position: relative;
   }
 
 }
