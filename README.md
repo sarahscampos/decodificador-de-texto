@@ -9,6 +9,8 @@ Criptografe e descriptografe suas mensagens com o Decodificador obernenter (nome
 
 Observação: Insira o texto apenas com letras minúsculas e sem acento. Caso sejam inseridas letras maiúsculas e/ou acentuadas, elas serão convertidas para suas respectivas versões minúsculas e sem acento.
 
+[Acesse o decodificador](https://sarahscampos.github.io/decodificador-de-texto/)
+
 ## Tecnologias usadas
 * HTML5
 * CSS3
