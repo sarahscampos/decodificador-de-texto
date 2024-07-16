@@ -16,3 +16,9 @@ Observação: Insira o texto apenas com letras minúsculas e sem acento. Caso se
 
 Possui responsividade para diferentes tamanhos de tela.
 
+## Desktop
+![desktop](https://github.com/user-attachments/assets/7015779f-9627-420b-9e51-70770f55410b)
+
+## Mobile
+![mobile](https://github.com/user-attachments/assets/91ceff61-68fe-483d-aeb1-aaac8283353e)
+
